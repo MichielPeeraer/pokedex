@@ -59,4 +59,8 @@ npm test
 ```
 
 ## License
-MIT
+MIT License.
+
+---
+
+*Created for learning and demonstration purposes.*
